@@ -80,12 +80,15 @@ footer{
   
   .step-box{
     width:90%;
-    margin-right: 0px;
+    margin:20px auto;
+    
   }
   
-  .step-box:nth(2){
-    margin:20px auto;
-  }
+  
+.step-box:last-child{
+  margin-right:auto;
+}
+
  
   
   footer{
